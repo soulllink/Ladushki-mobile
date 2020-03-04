@@ -1,0 +1,4 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");body{padding:0;background-color:#5f51ff;font-family:"Roboto", Arial, Helvetica, sans-serif}.container{width:calc(100% - 80px);max-width:1080px;margin:0 auto}main.svelte-1wx81ai{color:white}p.svelte-1wx81ai{color:black}hr.svelte-1wx81ai{border-color:white}button.svelte-1wx81ai{background:none}.btn2.svelte-1wx81ai{border:3px solid #ffffff;border-spacing:20px;padding:14px 35px;color:#ffffff}.btn2.svelte-1wx81ai:hover{border:0;background-color:white;color:#5f51ff}.form-control.svelte-1wx81ai{background:none;border-width:0 0 2px 0;width:calc(100% - 20px);min-width:300px}.form-control.svelte-1wx81ai::placeholder{color:#4a3ed3}li.svelte-1wx81ai{display:inline-flex;list-style:none}.copyright.svelte-1wx81ai{text-align:center;color:white;font-size:12px}
+.separation{padding:20px;border:1px white solid}
+
+/*# sourceMappingURL=bundle.css.map */
